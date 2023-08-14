@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Built-By: ￐ﾟ￐ﾾ￐ﾻ￑ﾌ￐ﾷ￐ﾾ￐ﾲ￐ﾰ￑ﾂ￐ﾵ￐ﾻ￑ﾌ
+Build-Jdk: 17.0.5
+Implementation-Title: Spring Boot Quick Start Archetype
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: Homework20_Advanced_V2
+Implementation-Vendor: Pivotal Software, Inc.
+Implementation-URL: http://projects.spring.io/spring-boot/Homework20_Adv
+ anced_V2/
+Created-By: Maven Integration for Eclipse
+
